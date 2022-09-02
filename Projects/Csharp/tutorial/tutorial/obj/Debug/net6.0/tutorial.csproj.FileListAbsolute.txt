@@ -1,0 +1,15 @@
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\bin\Debug\net6.0\tutorial.exe
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\bin\Debug\net6.0\tutorial.deps.json
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\bin\Debug\net6.0\tutorial.runtimeconfig.json
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\bin\Debug\net6.0\tutorial.dll
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\bin\Debug\net6.0\tutorial.pdb
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.csproj.AssemblyReference.cache
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.AssemblyInfoInputs.cache
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.AssemblyInfo.cs
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.csproj.CoreCompileInputs.cache
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.dll
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\refint\tutorial.dll
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.pdb
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\tutorial.genruntimeconfig.cache
+C:\Users\thuxq\OneDrive\Desktop\summer_projects\Csharp\tutorial\tutorial\obj\Debug\net6.0\ref\tutorial.dll
