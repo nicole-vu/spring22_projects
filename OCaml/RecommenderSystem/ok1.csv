@@ -1,0 +1,26 @@
+i,4,four,Tom Baker
+i,9,nine,Christopher Eccleston
+i,10,ten,David Tennant
+i,11,eleven,Matt Smith
+i,12,twelve,Peter Capaldi
+i,13,thirteen,Jodie Whittaker
+r,101,4,1
+r,101,9,-1
+r,101,10,1
+r,101,12,-1
+r,101,13,1
+r,102,10,-1
+r,102,11,1
+r,103,12,-1
+r,103,4,-1
+r,104,4,1
+r,105,4,-1
+r,105,9,-1
+r,105,10,-1
+r,105,11,-1
+r,105,12,-1
+r,105,13,1
+r,106,9,1
+r,106,10,1
+r,107,11,1
+r,107,12,-1
