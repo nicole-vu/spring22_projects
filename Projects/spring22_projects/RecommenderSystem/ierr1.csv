@@ -1,0 +1,5 @@
+i,1,name,in english
+i,1,nom,en espanol
+i,2,thing one,and thing two
+r,1,2,-1
+r,2,1,1

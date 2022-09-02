@@ -1,0 +1,16 @@
+i,1,i,Square Root of -1
+i,2,2,First Prime Number
+i,3,3,First Odd Prime
+i,314159,pi,Ratio of Circumference to Diameter
+i,271828,e,Euler's Constant
+i,161803,phi,The golden ratio
+r,102,1,-1
+r,102,314159,1
+r,102,271828,-1
+r,103,1,1
+r,103,2,-1
+r,103,314159,1
+r,103,271828,1
+r,104,2,1
+r,104,3,1
+r,104,161803,1
